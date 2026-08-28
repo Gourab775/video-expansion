@@ -2,6 +2,7 @@
   "name": "video-expansion",
   "version": "0.1.0",
   "private": true,
+  "description": "Video Expansion — scroll-driven media showcase built with Next.js, React, Framer Motion and Tailwind CSS. Immersive expand hero with portfolio, services and conversion sections.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
