@@ -1,6 +1,6 @@
 # Video Expansion — Scroll-Driven Media Showcase
 
-Live Demo: https://gourab775.github.io/video-expansion
+Live Demo: https://video-expansion.vercel.app
 
 Category: Creative Agency / Media Portfolio
 
@@ -85,7 +85,7 @@ npm run build
 ```
 
 - **Vercel** — Zero-config Next.js import; build `npm run build`
-- **GitHub Pages (static export)** — Set `output: 'export'` in `next.config.ts` if needed and publish `out/`; live at https://gourab775.github.io/video-expansion
+- **GitHub Pages (static export)** — Set `output: 'export'` in `next.config.ts` if needed and publish `out/`; live at https://video-expansion.vercel.app
 - **Netlify / EdgeOne Pages / Node host** — `npm run build` then `npm run start` (SSR) or static export for CDN
 
 Remote images are pre-allowed in `next.config.ts` for Pexels and Unsplash; add additional CDNs there if needed.
